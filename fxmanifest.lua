@@ -1,10 +1,11 @@
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+fx_version 'adamant'
+game 'gta5'
 
 author 'ESX-Brasil'
 
 description 'Esx Menu Pessoal V2'
 
-version '2.0.1'
+version '2.0.2'
 
 server_scripts {
 	'@mysql-async/lib/MySQL.lua',

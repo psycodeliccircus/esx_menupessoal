@@ -2,6 +2,8 @@
 **esx_menupessoal** é um **PersonalMenu** para FiveM desenvolvido em cima de [ESX-Brasil](https://github.com/ESX-Brasil/es_extended) e [NativeUILua-Reloaded]
 
 ### Creditos
+
+- [Korioz](https://github.com/Korioz) - Implementação do menu
 - [nlmarcio](https://github.com/nlmarcio) - Desenvolvedor
 - [ESX-Brasil](https://github.com/ESX-Brasil) - Tradução BR
 
