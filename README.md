@@ -13,8 +13,8 @@
 - **Se você quiser contribuir (como a tradução), pode fazer uma solicitação pull ou abrir um novo problema**
 
 ### Links e Suporte
-- [Discord](https://discord.gg/VMbCtwQ)
-- **Suportes**: DenisOPementinha#6669 ou ภєภเl๔๏мคภcเ๏#1775
+- [Discord](https://discord.gg/ZGXTsdN)
+- **Suportes**: ภєภเl๔๏мคภcเ๏#1775
 
 ### Características
 - IU do inventário
@@ -56,11 +56,11 @@ Essa ordem também se aplica na ordem de inicialização.
 
 ```
 cd resources
-git clone https://github.com/ESX-Brasil/esx_menupessoal [plugins]/esx_menupessoal
+git clone https://github.com/psycodeliccircus/esx_menupessoal [plugins]/esx_menupessoal
 ```
 
 ### Manualmente
-- Download https://github.com/ESX-Brasil/esx_menupessoal/releases/latest
+- Download https://github.com/psycodeliccircus/esx_menupessoal/releases/latest
 - Coloque-o no diretório `resource/[plugins]`
 
 ## Instalação
@@ -74,7 +74,7 @@ start esx_menupessoal
 ### License
 esx_menupessoal - ESX/NativeUI PersonalMenu
 
-Copyright (C) 2019 ESX-Brasil
+Copyright (C) 2020 ESX-Brasil
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
